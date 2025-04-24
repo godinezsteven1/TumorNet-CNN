@@ -7,6 +7,7 @@ A machine learning project that uses Convolutional Neural Networks (CNN) to clas
 ## Dataset
 
 - **Source**: [Kaggle - Brain Cancer MRI Dataset](https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset)
+- **Source**: [Kaggle - Brain Cancer Detection MRI Images](https://www.kaggle.com/datasets/hamzahabib47/brain-cancer-detection-mri-images)
 - **Categories**: 
   - Glioma Tumor
   - Meningioma Tumor
@@ -31,4 +32,6 @@ A machine learning project that uses Convolutional Neural Networks (CNN) to clas
 -  Lightweight UI 
 
 ---
+
+
 
