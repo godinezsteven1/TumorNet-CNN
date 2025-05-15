@@ -33,5 +33,16 @@ A machine learning project that uses Convolutional Neural Networks (CNN) to clas
 
 ---
 
+## Run
+
+-In order to run the project on your own please run 
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash 
+Streamline run app.py
+```
 
 
