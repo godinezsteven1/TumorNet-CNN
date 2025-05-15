@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 ```bash 
-Streamline run app.py
+streamlit run app.py
 ```
 
 
